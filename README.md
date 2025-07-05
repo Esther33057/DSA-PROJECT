@@ -11,7 +11,7 @@ This repository contains a Power BI dashboard project completed as part of a Dat
 
 ## 📁 Contents
 
-- `pbix/`: The main Power BI file (`CASE STUDY 3-DSA PROJECT.pbix`)
+- `pbix/`: The main Power BI file (PALMORA GROUP EMPLOYEE DATA AND BONUS RULE)
 
 ## 🔍 Project Highlights
 
@@ -72,7 +72,10 @@ $40,000 to $50,000 - 105 employees
 $30,000 to $40,000 - 101 employees
 $20,000 to $30,000 - 28 employees
 
-# THE SALARY BAND BY REGION
+SALARY BAND BY REGION (TOTAL PAY)
+- KADUNA: 99,360
+- LAGOS: 103,854.08
+- ABUJA: 98,851.80
 
 
 
